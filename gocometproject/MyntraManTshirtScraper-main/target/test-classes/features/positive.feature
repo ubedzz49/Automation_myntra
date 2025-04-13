@@ -12,5 +12,5 @@ Feature: To Scrape discounted T-shirts on Myntra for particular gender and parti
   Examples:
     | brand      | gender | links                  |
     | Van Heusen | Men    | https://www.myntra.com |
-    | Nike       | Women  | https://www.myntra.com |
-    | Nike       | Kids  | https://www.myntra.com |
+    | Roadster   | Women  | https://www.myntra.com |
+    | Nike       | Kids  | https://www.myntra.com  |
